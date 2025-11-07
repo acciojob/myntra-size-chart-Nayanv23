@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border:1px solid black;
+	border-collapse:collapse;
+	
+}
+thead{
+	background-color:red;
+	text-decoration-color:white
+}
+.w{
+	background-color:lightpink
+}
+.c{
+	background-color:yellow
+}
+.s{
+	background-color:lightgray
+}
